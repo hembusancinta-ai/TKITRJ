@@ -1,0 +1,6 @@
+{
+  "name": "Jurnal Aktivitas Siswa",
+  "description": "Aplikasi jurnal catatan aktivitas dan perkembangan siswa di sekolah untuk guru dan orang tua dengan integrasi Google Sheets, Google Drive, Google Calendar, dan ringkasan otomatis.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
